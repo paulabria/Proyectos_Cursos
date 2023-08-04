@@ -15,13 +15,11 @@ Hi 😊 I'm Paula<br><br>I'm a Researcher in Psychology, and I'm looking for a c
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=paulabria&icon=8&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
 # Proyectos_Cursos
 
